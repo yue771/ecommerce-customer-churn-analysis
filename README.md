@@ -34,6 +34,3 @@ This project analyzes customer behavior in an e-commerce dataset and builds mach
 - Scikit-learn
 - Matplotlib
 
-## 📷 Sample Output
-![Confusion Matrix](images/confusion_matrix.png)
-![Feature Importance](images/feature_importance.png)
